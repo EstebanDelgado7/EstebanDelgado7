@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hola 👋 soy Michael Delgado
+### 👨‍💻 Soy un Desarrollador Web de Colombia 🚀
+
+📚 Actualmente estoy estudiando en [SoyHenry](https://www.soyhenry.com/co)
 
 <!--
 **EstebanDelgado7/EstebanDelgado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
