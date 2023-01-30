@@ -1,19 +1,19 @@
 # Hola 👋 soy Michael Delgado
 ### 👨‍💻 Soy un Desarrollador Web de Colombia 🚀
 
-📚 Actualmente estoy estudiando en [SoyHenry](https://www.soyhenry.com/co)
+#### 😄 UN POCO SOBRE MI 😄
 
-<!--
-**EstebanDelgado7/EstebanDelgado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧒🏻 Desde muy chico me empezó a interesar todo lo relacionado a la creación de páginas webs, lamentable donde vivo no hay Universidades o Institutos relacionados a la tecnología, hasta que descubrí Henry y decidí aplicar a su Bootcamp. 
 
-Here are some ideas to get you started:
+- 📚 Actualmente estoy estudiando en [SoyHenry](https://www.soyhenry.com/co).
+- 💬 Preguntame sobre JavaScript, PostgreSQL, Node.JS, Express, HTML, CSS, React, SQL.
+- 📫 Me puedes contactar por medio de: 💼 [linkedin](https://www.linkedin.com/in/michael-delgado), 📧 Email: edelgadoa07@gmail.com y 📱 Celular: (+57) 316 747 8506).
+- ⚡ Dato curioso: Me gusta mucho los videojuegos de Fútbol ⚽.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💥 HABILIDADES 💥
+
+- ➡️ HTML, CSS
+- ➡️ Front-End: React, Javascript, Redux.
+- ➡️ Back-End: NodeJS, Sequelize, Express, PostgreSQL.
+- ➡️ Tecnologías para el trabajo en equipo: Github, Slack, Discord.
