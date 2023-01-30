@@ -7,7 +7,7 @@
 
 - 📚 Actualmente estoy estudiando en [SoyHenry](https://www.soyhenry.com/co).
 - 💬 Preguntame sobre JavaScript, PostgreSQL, Node.JS, Express, HTML, CSS, React, SQL.
-- 📫 Me puedes contactar por medio de: 💼 [linkedin](https://www.linkedin.com/in/michael-delgado), 📧 Email: edelgadoa07@gmail.com y 📱 Celular: (+57) 316 747 8506).
+- 📫 Me puedes contactar por medio de: 💼 [linkedin]([https://www.linkedin.com/in/michael-delgado](https://www.linkedin.com/in/michael-delgado-73710524b/)), 📧 Email: edelgadoa07@gmail.com y 📱 Celular: (+57) 316 747 8506).
 - ⚡ Dato curioso: Me gusta mucho los videojuegos de Fútbol ⚽.
 
 
